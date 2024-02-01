@@ -1,0 +1,15 @@
+table {
+    border: 1px solid #000000;
+    padding: 10px;
+}
+td {
+    padding: 5px;
+}
+table tr {
+    border: 1px solid #000000;
+    padding: 10px;
+}
+#movie-poster {
+    max-width: 15rem;
+    max-height: 20rem;
+}
